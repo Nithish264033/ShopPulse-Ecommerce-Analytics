@@ -43,6 +43,12 @@ The main objective is to transform raw e-commerce data into meaningful business 
 \- Analyze monthly revenue trends.
 
 \- Provide actionable business recommendations.
+ Power BI Dashboard
+
+![ShopPulse Dashboard](reports/shoppulse_dashboard.png)
+
+The interactive dashboard provides insights into revenue performance, customer retention, and delivery efficiency.
+
 
 
 
